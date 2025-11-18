@@ -44,9 +44,9 @@ Email: janetnashipai@gmail.com
    
 ---
 ## Screenshots
-![Main Dashboard](https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/Main%20Dashboard%20Page.PNG)
+https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/powerbi/screenshots/Main%20Dashboard%20Page.PNG
+https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/powerbi/screenshots/ToolTip%20page.PNG
 
-![ToolTip Page](https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/ToolTip%20page.PNG)
 
 
 ## Badges
