@@ -50,6 +50,6 @@ Email: janetnashipai@gmail.com
 
 
 ## Badges
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 
