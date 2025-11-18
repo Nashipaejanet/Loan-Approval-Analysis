@@ -44,7 +44,7 @@ Email: janetnashipai@gmail.com
    
 ---
 ## Screenshots
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/Nashipaejanet/your-repo/raw/main/dashboard.png)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
