@@ -44,7 +44,10 @@ Email: janetnashipai@gmail.com
    
 ---
 ## Screenshots
-![Dashboard](https://github.com/Nashipaejanet/your-repo/raw/main/dashboard.png)
+![Main Dashboard](https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/Main%20Dashboard%20Page.PNG)
+
+![ToolTip Page](https://github.com/Nashipaejanet/Loan-Approval-Analysis/raw/main/ToolTip%20page.PNG)
+
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
